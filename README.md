@@ -2,14 +2,14 @@
 
 ## About Me
 
-- 🔭 I’m currently working on [SafariLoad]
-- 🌱 I’m currently learning [JavaScript]
-- 👯 I’m looking to collaborate on [SafariLoad]
-- 🤔 I’m looking for help with [Laravel]
-- 💬 Ask me about [php, javaScript, Html & Css, Bootstrap]
-- 📫 How to reach me: [Peternice732@gmail.com]
+- 🔭 I’m currently working on SafariLoad
+- 🌱 I’m currently learning JavaScript
+- 👯 I’m looking to collaborate on SafariLoad
+- 🤔 I’m looking for help with Laravel
+- 💬 Ask me about php, javaScript, Html & Css, Bootstrap
+- 📫 How to reach me: Peternice732@gmail.com
 - 😄 Pronouns: Her
-- ⚡ Fun fact: [Coding is my life]
+- ⚡ Fun fact: Coding is my life
 
 ## My GitHub Stats
 
