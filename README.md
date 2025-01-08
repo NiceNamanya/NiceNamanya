@@ -29,11 +29,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=Linkedin)](https://www.linkedin.com/in/YourLinkedIn)
 [![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/YourTwitter)
 
-## Top Projects
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NiceNamanya&repo=YourRepoName)](https://github.com/NiceNamanya/YourRepoName)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NiceNamanya&repo=YourRepoName)](https://github.com/NiceNamanya/YourRepoName)
-
 <!--
 **NiceNamanya/NiceNamanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
