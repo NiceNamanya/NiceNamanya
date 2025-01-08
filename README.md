@@ -2,14 +2,14 @@
 
 ## About Me
 
-- 🔭 I’m currently working on [Your Project Name](https://github.com/YourProject)
-- 🌱 I’m currently learning [Your Learning Topic]
-- 👯 I’m looking to collaborate on [Your Collaboration Interest]
-- 🤔 I’m looking for help with [Your Help Request]
-- 💬 Ask me about [Your Expertise]
-- 📫 How to reach me: [Your Email or Contact Info]
-- 😄 Pronouns: They/Them
-- ⚡ Fun fact: [A Fun Fact About You]
+- 🔭 I’m currently working on [SafariLoad]
+- 🌱 I’m currently learning [JavaScript]
+- 👯 I’m looking to collaborate on [SafariLoad]
+- 🤔 I’m looking for help with [Laravel]
+- 💬 Ask me about [php, javaScript, Html & Css, Bootstrap]
+- 📫 How to reach me: [Peternice732@gmail.com]
+- 😄 Pronouns: Her
+- ⚡ Fun fact: [Coding is my life]
 
 ## My GitHub Stats
 
@@ -17,13 +17,12 @@
 
 ## Languages and Tools
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
+
 
 ## Connect with Me
 
